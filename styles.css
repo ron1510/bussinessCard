@@ -1,0 +1,37 @@
+body 
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+}
+
+.unknownMan
+{
+    width: 150px;
+    height: 150px;
+}
+
+.card
+{ 
+    margin: 0 auto;
+    width: 400px;
+    padding: 20px;
+    display: flex; 
+    justify-content: space-around;
+    text-align: center;
+    background: #ddebf8;
+    border-bottom: 6px solid #d8cefe;
+    color: #2b2839;
+}
+
+.dottedBlueBorder
+{
+    border: dotted;
+    border-color: blue;  
+}
+    /* 
+    Challenge:
+    Add colors to the card according to the design.
+    black - #2b2839 (the text color)
+    blue - #ddebf8
+    purple - #d8cefe
+    */
